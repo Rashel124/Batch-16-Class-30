@@ -1,0 +1,29 @@
+
+
+Way of writing JS...............
+
+1. Inline (Tag modde)
+2. Internal (ata likte hoy Body modde)
+3. External (linkup kore last body er thik upore <script src="script.js"></script>)
+
+
+1. Variable
+2. Data Type
+
+
+
+
+Way of declaring Variable in js...............
+
+1. General Way
+2. Using let 
+3. using var 
+4. using const
+
+Data Type:
+
+1. String ( Normal word, sentence)
+2. integer (Number=> non decimal number)=> 1 2 3 4 5 6 789345634, 10000, -30, -50
+3. float    (number)=> 45.560, 56, 46, 56.00
+4. double   (number)=> 60.6, 6789.6
+5. boolean  (yes/no)=> true/false 

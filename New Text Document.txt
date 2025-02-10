@@ -1,0 +1,9 @@
+  
+
+ Js= Javascript (programming Language)=Frontend Programming Language=> Interactive, Real 
+
+ Ata akta Toy Language chilo first time a 
+
+ Latest version: Eicma Script=ES6
+ 
+ 
